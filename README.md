@@ -13,7 +13,7 @@ evolucionado para ofrecer experiencias más interactivas, accesibles y seguras, 
 la conectividad global y permitiendo el surgimiento de nuevas formas de comunicación,     
 comercio y aprendizaje.    
 
-#Tipos de aplicaciones web (estáticas, dinámicas, SPA, PWA)    
+# <ing> Tipos de aplicaciones web (estáticas, dinámicas, SPA, PWA)    </ing>
 
 #1. Aplicaciones Web Estáticas  
 
