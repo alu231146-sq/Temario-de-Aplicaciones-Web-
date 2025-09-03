@@ -139,7 +139,7 @@ HTML, CSS, JavaScript, PHP, MySQL
 #<ing>HTML (HyperText Markup Language)</ing>
 #<ing>Función: </ing>
 Es el lenguaje principal para estructurar el contenido de las páginas web.
-Características: 
+#<ing>Características: </ing>
 Define elementos como encabezados, párrafos, enlaces, imágenes, tablas, formularios, etc.
 #<ing>Importancia:</ing>
 Toda página web necesita HTML; es la base sobre la que se construyen los sitios.
