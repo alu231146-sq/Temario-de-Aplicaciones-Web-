@@ -42,7 +42,7 @@ Documentación estática.
 #<ing>Definición:  </ing>
 En una aplicación web dinámica, el contenido puede cambiar en función de la interacción  
 del usuario, datos almacenados o procesados en el servidor.  
-# <ing> Características: <ing> 
+# <ing> Características: </ing> 
 Utilizan un lenguaje de backend (PHP, Python, Node.js, Ruby, etc.) y bases de datos  
 (MySQL, MongoDB, etc.).  
 El servidor procesa las peticiones y genera contenido personalizado.  
